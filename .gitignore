@@ -127,7 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-textSummarizer
+env_text/
 
 # Spyder project settings
 .spyderproject
